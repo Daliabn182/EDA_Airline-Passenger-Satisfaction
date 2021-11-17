@@ -15,4 +15,7 @@ What factors lead to customer satisfaction for an Airline?
   
   ![apsheatmap](https://user-images.githubusercontent.com/74211933/142283291-284344b1-4bb7-4867-8725-3fd0054ee061.png)
 
-   Shows the corrlations between each coulmn in the dataframe.  
+   Shows the correlations between each coulmn in the dataframe.  
+   
+   
+   
